@@ -1,0 +1,6 @@
+
+kreval	recordati_ilac_sanayi	 butamirat_sitrat 	2598745 	15 	02.10.2020 	10	 100 	9
+oseflu	opto_ilac	 oseltamivir_fosfat 	9564378 	40 	09.01.2022 	10	 75 	29
+tamiflu	roche_mustahzarlari_ilac	 oseltamivir_fosfat 	3564789 	16 	10.10.2020 	5	 75 	37
+atarax	hidroksizin	 fructus 	2156942 	5 	10.02.2021 	30	 50 	6
+sa	sa	 sa 	12 	2 	2342423 	23	 233 	23

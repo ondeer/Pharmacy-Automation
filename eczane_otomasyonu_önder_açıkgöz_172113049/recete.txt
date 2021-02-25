@@ -1,0 +1,5 @@
+
+Oguzhan	Das	 ARH+ 	25965478960 	2 	10 	1999	 atarax 	1
+Onder	Acikgoz	 0Rh+ 	36578456785 	3 	3 	1999	 oseflu 	2
+Mahmut	Tuncer	 bRh- 	1234567890 	2 	10 	1991	 tamiflu 	3
+Ahmet	Yigit	 ABRh+ 	9876543210 	3 	10 	1992	 kreval 	2
